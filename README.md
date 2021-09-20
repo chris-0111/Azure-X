@@ -27,6 +27,7 @@ EasyExploits ddl- https://easyexploits.com/downloadexploit?id=6 ( I am consideri
 
 
 I am not responsible for any misuse of this software. Use at your own risk. I suggesting using a ALT account.
+
 All credit to orginal owners of the scripts!
 
 Thank you for choosing Azure X! Have a fun time!
