@@ -1,7 +1,7 @@
 # Azure-X
 Azure X v1.0.0a (EasyExploits ddl)
 
-IF AZURE X DOES NOT INJECT PLEASE WAIT UNTILL IT IS UPDATED AND REINSTALL IT FROM THIS GITHUB! ( https://github.com/ChristopherPlayzYT/Azure-X )
+IF AZURE X DOES NOT INJECT PLEASE WAIT UNTILL IT IS UPDATED AND REINSTALL IT FROM THIS GITHUB!   ( https://github.com/ChristopherPlayzYT/Azure-X )
 
 Beginners Guide:
 1. Open Azure X.exe file
