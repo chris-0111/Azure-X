@@ -1,6 +1,6 @@
 # Azure-X
 Azure X v1.0.0a (EasyExploits ddl) 9/20/21
-
+https://imgur.com/a/mFEQqp8
 Changelog:
 Released (My First Public Exploit)
 
