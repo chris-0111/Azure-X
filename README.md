@@ -1,6 +1,12 @@
 # Azure-X
 Azure X v1.0.0a (EasyExploits ddl)
 
+
+COMMON ISSUES:
+1. Cant download, virus dected.
+This is a false postive it is because of the dll, many other will say teh same thing, all other exploits are also flagged.
+2. If you find any other bugs, feel free to submit a commit request.
+
 IF AZURE X DOES NOT INJECT PLEASE WAIT UNTILL IT IS UPDATED AND REINSTALL IT FROM THIS GITHUB!   ( https://github.com/ChristopherPlayzYT/Azure-X )
 
 Beginners Guide:
