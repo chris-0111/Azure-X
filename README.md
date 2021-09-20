@@ -16,6 +16,7 @@ Beginners Guide:
 
 Thank you for choosing Azure X! Have a fun time!
 
+
 More Info:
 
 Azure X can run most scripts.
