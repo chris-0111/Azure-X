@@ -18,6 +18,7 @@ Thank you for choosing Azure X! Have a fun time!
 
 
 More Info:
+
 Azure X can run most scripts.
 
 EasyExploits ddl- https://easyexploits.com/downloadexploit?id=6 ( I am considering making my own soon )
