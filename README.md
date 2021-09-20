@@ -9,8 +9,11 @@ Image: https://imgur.com/a/mFEQqp8
 
 COMMON ISSUES:
 1. Cant download, virus dected.
-This is a false postive it is because of the dll, many other will say the same thing, all other exploits are also flagged. (You can check on Reddit posts about EasyExploits dll or check on VirusTotal I can garentee not 100% of the venders flag it.)
-2. If you find any other bugs, feel free to submit a commit request or issue a issue report.
+- This is a false postive it is because of the dll, many other will say the same thing, all other exploits are also flagged. (You can check on Reddit posts about EasyExploits dll or check on VirusTotal I can garentee not 100% of the venders flag it.)
+2. I want to run this on a VM to test it says: Sorry, This Application Cannot Be Run Under A Virtual Machine
+- Easily fix this by watching this video: https://youtu.be/SO4nAPX9qX8
+
+If you find any other bugs, feel free to submit a commit request or issue a issue report.
 
 IF AZURE X DOES NOT INJECT PLEASE WAIT UNTILL IT IS UPDATED AND REINSTALL IT FROM THIS GITHUB!   ( https://github.com/ChristopherPlayzYT/Azure-X )
 
