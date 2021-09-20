@@ -2,7 +2,7 @@
 Azure X v1.0.0a (EasyExploits ddl) 9/20/21
 
 Changelog:
-Realsed
+Released (My First Public Exploit)
 
 COMMON ISSUES:
 1. Cant download, virus dected.
