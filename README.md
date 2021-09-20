@@ -20,3 +20,7 @@ EasyExploits ddl- https://easyexploits.com/downloadexploit?id=6 ( I am consideri
 I am not responsible for any misuse of this software. Use at your own risk.
 
 Thank you for choosing Azure X! Have a fun time!
+
+
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
